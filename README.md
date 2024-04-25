@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devprasad11
-- 👀 I’m...Full Stck Java Developer
+- 👀 I’m...Full Stck Java Developer (as well as i'm learning python and MERN stack as well)
 - 📫 How to reach me ...devprasad.pawar@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
